@@ -1,0 +1,191 @@
+{
+    "format": 3,
+    "days": [
+        {
+            "date": "2026-03-30",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": [
+                {
+                    "id": 307,
+                    "type": "HOLIDAY",
+                    "status": "REGULAR",
+                    "statusDetail": "NOT_BOOKABLE",
+                    "duration": {
+                        "start": "2026-03-30T00:00",
+                        "end": "2026-03-30T23:59:59"
+                    },
+                    "isFullDay": true,
+                    "durationTotal": {
+                        "start": "2026-03-28T00:00",
+                        "end": "2026-04-12T23:59:59"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": null,
+                    "shortName": "Osterferien",
+                    "longName": "Osterferien",
+                    "notesAll": null
+                }
+            ]
+        },
+        {
+            "date": "2026-03-31",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": [
+                {
+                    "id": 307,
+                    "type": "HOLIDAY",
+                    "status": "REGULAR",
+                    "statusDetail": "NOT_BOOKABLE",
+                    "duration": {
+                        "start": "2026-03-31T00:00",
+                        "end": "2026-03-31T23:59:59"
+                    },
+                    "isFullDay": true,
+                    "durationTotal": {
+                        "start": "2026-03-28T00:00",
+                        "end": "2026-04-12T23:59:59"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": null,
+                    "shortName": "Osterferien",
+                    "longName": "Osterferien",
+                    "notesAll": null
+                }
+            ]
+        },
+        {
+            "date": "2026-04-01",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": [
+                {
+                    "id": 307,
+                    "type": "HOLIDAY",
+                    "status": "REGULAR",
+                    "statusDetail": "NOT_BOOKABLE",
+                    "duration": {
+                        "start": "2026-04-01T00:00",
+                        "end": "2026-04-01T23:59:59"
+                    },
+                    "isFullDay": true,
+                    "durationTotal": {
+                        "start": "2026-03-28T00:00",
+                        "end": "2026-04-12T23:59:59"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": null,
+                    "shortName": "Osterferien",
+                    "longName": "Osterferien",
+                    "notesAll": null
+                }
+            ]
+        },
+        {
+            "date": "2026-04-02",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": [
+                {
+                    "id": 307,
+                    "type": "HOLIDAY",
+                    "status": "REGULAR",
+                    "statusDetail": "NOT_BOOKABLE",
+                    "duration": {
+                        "start": "2026-04-02T00:00",
+                        "end": "2026-04-02T23:59:59"
+                    },
+                    "isFullDay": true,
+                    "durationTotal": {
+                        "start": "2026-03-28T00:00",
+                        "end": "2026-04-12T23:59:59"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": null,
+                    "shortName": "Osterferien",
+                    "longName": "Osterferien",
+                    "notesAll": null
+                }
+            ]
+        },
+        {
+            "date": "2026-04-03",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": [
+                {
+                    "id": 307,
+                    "type": "HOLIDAY",
+                    "status": "REGULAR",
+                    "statusDetail": "NOT_BOOKABLE",
+                    "duration": {
+                        "start": "2026-04-03T00:00",
+                        "end": "2026-04-03T23:59:59"
+                    },
+                    "isFullDay": true,
+                    "durationTotal": {
+                        "start": "2026-03-28T00:00",
+                        "end": "2026-04-12T23:59:59"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": null,
+                    "shortName": "Osterferien",
+                    "longName": "Osterferien",
+                    "notesAll": null
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

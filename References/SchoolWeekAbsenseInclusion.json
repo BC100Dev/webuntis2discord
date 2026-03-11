@@ -1,0 +1,1342 @@
+{
+    "format": 3,
+    "days": [
+        {
+            "date": "2026-03-02",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [
+                {
+                    "ids": [
+                        2152325
+                    ],
+                    "duration": {
+                        "start": "2026-03-02T09:45",
+                        "end": "2026-03-02T11:15"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "CHANGED",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 1,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [
+                        "NOTES"
+                    ],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "ADDED",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": {
+                                "type": "TEACHER",
+                                "status": "REMOVED",
+                                "shortName": "[TeacherName2]",
+                                "longName": "[TeacherName2]",
+                                "displayName": "[TeacherName2]",
+                                "displayNameLabel": "NAME"
+                            }
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 10a IT",
+                                "longName": "LF 10a IT",
+                                "displayName": "LF 10a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "ADDED",
+                                "shortName": "5.1.02",
+                                "longName": "Wirtschaft/Sozialkunde (1 PC)",
+                                "displayName": "5.1.02",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": {
+                                "type": "ROOM",
+                                "status": "REMOVED",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            }
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [
+                        {
+                            "type": "SUBSTITUTION_TEXT",
+                            "text": "Arbeitsauftrag von Herrn [TeacherName2]"
+                        }
+                    ],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "Arbeitsauftrag von Herrn [TeacherName2]",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2152328
+                    ],
+                    "duration": {
+                        "start": "2026-03-02T11:35",
+                        "end": "2026-03-02T13:05"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "CHANGED",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 2,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [
+                        "NOTES"
+                    ],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "ADDED",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": {
+                                "type": "TEACHER",
+                                "status": "REMOVED",
+                                "shortName": "[TeacherName2]",
+                                "longName": "[TeacherName2]",
+                                "displayName": "[TeacherName2]",
+                                "displayNameLabel": "NAME"
+                            }
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 10a IT",
+                                "longName": "LF 10a IT",
+                                "displayName": "LF 10a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "ADDED",
+                                "shortName": "5.1.02",
+                                "longName": "Wirtschaft/Sozialkunde (1 PC)",
+                                "displayName": "5.1.02",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": {
+                                "type": "ROOM",
+                                "status": "REMOVED",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            }
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [
+                        {
+                            "type": "SUBSTITUTION_TEXT",
+                            "text": "Arbeitsauftrag von Herrn [TeacherName2]"
+                        }
+                    ],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "Arbeitsauftrag von Herrn [TeacherName2]",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2241420
+                    ],
+                    "duration": {
+                        "start": "2026-03-02T13:30",
+                        "end": "2026-03-02T15:00"
+                    },
+                    "type": "ADDITIONAL_PERIOD",
+                    "status": "ADDITIONAL",
+                    "statusDetail": "MOVED",
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 500,
+                    "layoutGroup": 3,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 11a IT",
+                                "longName": "LF 11a IT",
+                                "displayName": "LF 11a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.02",
+                                "longName": "IT/Programmierung (17 PC)",
+                                "displayName": "2.2.02",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": {
+                        "start": "2026-03-03T08:00",
+                        "end": "2026-03-03T09:30"
+                    },
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2241397
+                    ],
+                    "duration": {
+                        "start": "2026-03-02T13:30",
+                        "end": "2026-03-02T15:00"
+                    },
+                    "type": "ADDITIONAL_PERIOD",
+                    "status": "ADDITIONAL",
+                    "statusDetail": "CONFIRMED",
+                    "name": null,
+                    "layoutStartPosition": 500,
+                    "layoutWidth": 500,
+                    "layoutGroup": 3,
+                    "color": "bfc8cf",
+                    "notesAll": "Verschoben von Di, 1.Block; Raum noch nicht final",
+                    "icons": [
+                        "NOTES"
+                    ],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 11A",
+                                "longName": "Kunden mit beeinträchtigtem Binokularsehen beraten und  versorgen",
+                                "displayName": "LF 11A",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "ADDED",
+                                "shortName": "2.2.02",
+                                "longName": "IT/Programmierung (17 PC)",
+                                "displayName": "2.2.02",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [
+                        {
+                            "type": "NOTES_FOR_ALL",
+                            "text": "Verschoben von Di, 1.Block; Raum noch nicht final"
+                        },
+                        {
+                            "type": "LESSON_INFO",
+                            "text": "Verschoben von Di, 1.Block"
+                        }
+                    ],
+                    "lessonText": "",
+                    "lessonInfo": "Verschoben von Di, 1.Block",
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                }
+            ],
+            "backEntries": [
+                {
+                    "id": 1309968,
+                    "type": "ABSENCE",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "duration": {
+                        "start": "2026-03-02T09:45",
+                        "end": "2026-03-02T17:00"
+                    },
+                    "isFullDay": false,
+                    "durationTotal": {
+                        "start": "2026-03-02T09:45",
+                        "end": "2026-03-02T17:00"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": {
+                        "type": "STUDENT",
+                        "status": "REMOVED",
+                        "shortName": "[MyName]",
+                        "longName": "[MyLastName]",
+                        "displayName": "[MyName]",
+                        "displayNameLabel": null
+                    },
+                    "shortName": "N",
+                    "longName": "Nicht entschuldigt",
+                    "notesAll": ""
+                }
+            ]
+        },
+        {
+            "date": "2026-03-03",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [
+                {
+                    "ids": [
+                        2154368
+                    ],
+                    "duration": {
+                        "start": "2026-03-03T08:00",
+                        "end": "2026-03-03T09:30"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "CANCELLED",
+                    "statusDetail": "MOVED",
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 1,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 11a IT",
+                                "longName": "LF 11a IT",
+                                "displayName": "LF 11a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": {
+                        "start": "2026-03-02T13:30",
+                        "end": "2026-03-02T15:00"
+                    },
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2154371
+                    ],
+                    "duration": {
+                        "start": "2026-03-03T09:45",
+                        "end": "2026-03-03T11:15"
+                    },
+                    "type": "EXAM",
+                    "status": "CHANGED",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 2,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [
+                        "NOTES"
+                    ],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "ADDED",
+                                "shortName": "[TeacherName3]",
+                                "longName": "[TeacherName3]",
+                                "displayName": "[TeacherName3]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": {
+                                "type": "TEACHER",
+                                "status": "REMOVED",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            }
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 11a IT",
+                                "longName": "LF 11a IT",
+                                "displayName": "LF 11a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "ADDED",
+                                "shortName": "5.2.07",
+                                "longName": "Wirtschaft/Sozialkunde (1 PC)",
+                                "displayName": "5.2.07",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": {
+                                "type": "ROOM",
+                                "status": "REMOVED",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            }
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [
+                        {
+                            "type": "LESSON_INFO",
+                            "text": "KA KA LF 12a IT"
+                        }
+                    ],
+                    "lessonText": "",
+                    "lessonInfo": "KA KA LF 12a IT",
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2091668
+                    ],
+                    "duration": {
+                        "start": "2026-03-03T11:35",
+                        "end": "2026-03-03T13:05"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 3,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName4]",
+                                "longName": "[TeacherName4]",
+                                "displayName": "[TeacherName4]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "WSK",
+                                "longName": "Wirtschafts- und Sozialkunde",
+                                "displayName": "WSK",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                }
+            ],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-04",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [
+                {
+                    "ids": [
+                        2152331,
+                        2152334
+                    ],
+                    "duration": {
+                        "start": "2026-03-04T08:00",
+                        "end": "2026-03-04T11:15"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 1,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName2]",
+                                "longName": "[TeacherName2]",
+                                "displayName": "[TeacherName2]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 10a IT",
+                                "longName": "LF 10a IT",
+                                "displayName": "LF 10a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2154374
+                    ],
+                    "duration": {
+                        "start": "2026-03-04T11:35",
+                        "end": "2026-03-04T13:05"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 2,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName1]",
+                                "longName": "[TeacherName1]",
+                                "displayName": "[TeacherName1]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 11a IT",
+                                "longName": "LF 11a IT",
+                                "displayName": "LF 11a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2175353,
+                        2175356
+                    ],
+                    "duration": {
+                        "start": "2026-03-04T13:30",
+                        "end": "2026-03-04T16:45"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 3,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName5]",
+                                "longName": "[TeacherName5]",
+                                "displayName": "[TeacherName5]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "WPF DigKap",
+                                "longName": "WPF DigKap",
+                                "displayName": "WPF DigKap",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": [
+                        {
+                            "current": {
+                                "type": "CLASS",
+                                "status": "REGULAR",
+                                "shortName": "FA-C 32",
+                                "longName": "Fachinformatiker/in Anwendungsentwicklung",
+                                "displayName": "FA-C 32",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        },
+                        {
+                            "current": {
+                                "type": "CLASS",
+                                "status": "REGULAR",
+                                "shortName": "FS-C 31",
+                                "longName": "Fachinformatiker/in Systemintegration",
+                                "displayName": "FS-C 31",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        },
+                        {
+                            "current": {
+                                "type": "CLASS",
+                                "status": "REGULAR",
+                                "shortName": "FS-C 32",
+                                "longName": "Fachinformatiker/in Systemintegration",
+                                "displayName": "FS-C 32",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        },
+                        {
+                            "current": {
+                                "type": "CLASS",
+                                "status": "REGULAR",
+                                "shortName": "FS-C 33",
+                                "longName": "Fachinformatiker/in Systemintegration",
+                                "displayName": "FS-C 33",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        },
+                        {
+                            "current": {
+                                "type": "CLASS",
+                                "status": "REGULAR",
+                                "shortName": "SE-C 31",
+                                "longName": "IT-Systemelektroniker/in",
+                                "displayName": "SE-C 31",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                }
+            ],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-05",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [
+                {
+                    "ids": [
+                        2156861,
+                        2156864
+                    ],
+                    "duration": {
+                        "start": "2026-03-05T08:00",
+                        "end": "2026-03-05T11:15"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 1,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName6]",
+                                "longName": "[TeacherName6]",
+                                "displayName": "[TeacherName6]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        },
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName7]",
+                                "longName": "[TeacherName7]",
+                                "displayName": "[TeacherName7]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 12a IT",
+                                "longName": "LF 12a IT",
+                                "displayName": "LF 12a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2060746
+                    ],
+                    "duration": {
+                        "start": "2026-03-05T11:35",
+                        "end": "2026-03-05T13:05"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 2,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName8]",
+                                "longName": "[TeacherName8]",
+                                "displayName": "[TeacherName8]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "EN",
+                                "longName": "Englisch",
+                                "displayName": "EN",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2091671
+                    ],
+                    "duration": {
+                        "start": "2026-03-05T13:30",
+                        "end": "2026-03-05T15:00"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 3,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName4]",
+                                "longName": "[TeacherName4]",
+                                "displayName": "[TeacherName4]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "WSK",
+                                "longName": "Wirtschafts- und Sozialkunde",
+                                "displayName": "WSK",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                }
+            ],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-06",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "REGULAR",
+            "dayEntries": [],
+            "gridEntries": [
+                {
+                    "ids": [
+                        2156867,
+                        2156870
+                    ],
+                    "duration": {
+                        "start": "2026-03-06T08:00",
+                        "end": "2026-03-06T11:15"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 1,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName6]",
+                                "longName": "[TeacherName6]",
+                                "displayName": "[TeacherName6]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 12a IT",
+                                "longName": "LF 12a IT",
+                                "displayName": "LF 12a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                },
+                {
+                    "ids": [
+                        2156873
+                    ],
+                    "duration": {
+                        "start": "2026-03-06T11:35",
+                        "end": "2026-03-06T13:05"
+                    },
+                    "type": "NORMAL_TEACHING_PERIOD",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "name": null,
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "layoutGroup": 2,
+                    "color": "bfc8cf",
+                    "notesAll": "",
+                    "icons": [],
+                    "position1": [
+                        {
+                            "current": {
+                                "type": "TEACHER",
+                                "status": "REGULAR",
+                                "shortName": "[TeacherName6]",
+                                "longName": "[TeacherName6]",
+                                "displayName": "[TeacherName6]",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position2": [
+                        {
+                            "current": {
+                                "type": "SUBJECT",
+                                "status": "REGULAR",
+                                "shortName": "LF 12a IT",
+                                "longName": "LF 12a IT",
+                                "displayName": "LF 12a IT",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position3": [
+                        {
+                            "current": {
+                                "type": "ROOM",
+                                "status": "REGULAR",
+                                "shortName": "2.2.03",
+                                "longName": "IT (3 PC)",
+                                "displayName": "2.2.03",
+                                "displayNameLabel": "NAME"
+                            },
+                            "removed": null
+                        }
+                    ],
+                    "position4": null,
+                    "position5": null,
+                    "position6": [],
+                    "position7": [],
+                    "texts": [],
+                    "lessonText": "",
+                    "lessonInfo": null,
+                    "substitutionText": "",
+                    "userName": null,
+                    "moved": null,
+                    "durationTotal": null,
+                    "link": null
+                }
+            ],
+            "backEntries": [
+                {
+                    "id": 1313451,
+                    "type": "ABSENCE",
+                    "status": "REGULAR",
+                    "statusDetail": null,
+                    "duration": {
+                        "start": "2026-03-06T08:00",
+                        "end": "2026-03-06T18:30"
+                    },
+                    "isFullDay": false,
+                    "durationTotal": {
+                        "start": "2026-03-06T08:00",
+                        "end": "2026-03-06T18:30"
+                    },
+                    "layoutStartPosition": 0,
+                    "layoutWidth": 1000,
+                    "color": "bfc8cf",
+                    "resource": {
+                        "type": "STUDENT",
+                        "status": "REMOVED",
+                        "shortName": "[MyName]",
+                        "longName": "[MyLastName]",
+                        "displayName": "[MyName]",
+                        "displayNameLabel": null
+                    },
+                    "shortName": "K",
+                    "longName": "Krank",
+                    "notesAll": ""
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

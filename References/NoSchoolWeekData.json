@@ -1,0 +1,76 @@
+{
+    "format": 3,
+    "days": [
+        {
+            "date": "2026-03-16",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "NO_DATA",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-17",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "NO_DATA",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-18",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "NO_DATA",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-19",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "NO_DATA",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": []
+        },
+        {
+            "date": "2026-03-20",
+            "resourceType": "STUDENT",
+            "resource": {
+                "id": "[MyUserID:int]",
+                "shortName": "[MyName]",
+                "longName": "[MyLastName]",
+                "displayName": ""
+            },
+            "status": "NO_DATA",
+            "dayEntries": [],
+            "gridEntries": [],
+            "backEntries": []
+        }
+    ],
+    "errors": []
+}
