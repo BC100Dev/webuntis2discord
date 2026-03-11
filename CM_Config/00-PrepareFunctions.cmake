@@ -17,13 +17,27 @@ function(CollectSources RootDir OutVar)
     set(${OutVar} ${SOURCE_FILES} PARENT_SCOPE)
 endfunction()
 
-function(TestCLibraryFunctionality C_LIB_NAME SRC OUT_VAR)
-    # write and check
-    file(WRITE "${CMAKE_BINARY_DIR}/${C_LIB_NAME}_check.c" "${SRC}")
-    try_compile(RESULT_VAR "${CMAKE_BINARY_DIR}/${C_LIB_NAME}_check" "${CMAKE_BINARY_DIR}/${C_LIB_NAME}_check.c")
-    set(${OUT_VAR} ${RESULT_VAR} PARENT_SCOPE)
+function(DisableBionicFortify TARGET_NAME)
+    if (NOT APP_TARGETS_ANDROID)
+        return()
+    endif ()
 
-    # delete temporary files
-    file(REMOVE_RECURSE "${CMAKE_BINARY_DIR}/${C_LIB_NAME}_check")
-    file(REMOVE "${CMAKE_BINARY_DIR}/${C_LIB_NAME}_check.c")
+    target_link_options(${TARGET_NAME} PRIVATE "-Wl,--allow-shlib-undefined")
+endfunction()
+
+function(SetTargetOutputDir TARGET DIR)
+    set_target_properties(${TARGET} PROPERTIES
+            RUNTIME_OUTPUT_DIRECTORY "${DIR}"
+            LIBRARY_OUTPUT_DIRECTORY "${DIR}"
+            ARCHIVE_OUTPUT_DIRECTORY "${DIR}"
+    )
+endfunction()
+
+function(SetRpathValue TARGET)
+    set(RPATH_VAL "$ORIGIN:$ORIGIN/libs:$ORIGIN/lib:$ORIGIN/../lib:$ORIGIN/../libs")
+    set_target_properties(${TARGET} PROPERTIES
+            BUILD_WITH_INSTALL_RPATH TRUE
+            INSTALL_RPATH "${RPATH_VAL}"
+            BUILD_RPATH "${RPATH_VAL}"
+            INSTALL_RPATH_USE_LINK_PATH FALSE)
 endfunction()
