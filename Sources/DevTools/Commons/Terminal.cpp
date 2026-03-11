@@ -45,7 +45,11 @@ std::string Terminal::translateColor(TermColor color) {
 }
 
 void Terminal::clearTerminal() {
+#ifdef __linux__
+    std::cout << "\x1b\x5b\x48\x1b\x5b\x32\x4a\x1b\x5b\x33\x42";
+#else
     std::cout << "\033[H\033[2J";
+#endif
     std::cout.flush();
 }
 
